@@ -1,5 +1,5 @@
 /*
-Sean Stasny
+Sean Staz
 CSC 2134
 Program Name: timeConverter.cpp
 Program Description: This program will translate military time into english time.
